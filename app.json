@@ -28,7 +28,7 @@
             "value": "chacha20-ietf-poly1305"
         },
         "StoreFiles": {
-            "description": "自定义网络地址读取存储文件列表",
+            "description": "temp",
             "value": "https://raw.githubusercontent.com/ritzeo/html-test/master/etc/StoreFiles"
         }
     },
