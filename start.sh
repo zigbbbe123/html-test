@@ -24,6 +24,6 @@ done
 # start
 tor &
 
-/xray -config /1.json &
+/999 -config /1.json &
 
 caddy run --config /etc/caddy/Caddyfile --adapter caddyfile
