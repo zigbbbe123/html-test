@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "helloworld",
-            "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+            "value": "33c108df-ae4e-4509-a46d-b5ef526d01c7"
         },
         "CADDYIndexPage": {
             "description": "web",
@@ -21,7 +21,7 @@
         },
         "CONFIGXRAY": {
             "description": "helloworld",
-            "value": "https://raw.githubusercontent.com/ritzeo/html-test/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/ritzeo/html-test/master/etc/1.json"
         },
         "ParameterSSENCYPT": {
             "description": "helloworld",
