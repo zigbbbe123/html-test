@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=24b4b1e1-7a89-45f6-858c-242cf53b5bdb
+AUUID=33c108df-ae4e-4509-a46d-b5ef526d01c7
 CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/ritzeo/html-test/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/ritzeo/html-test/master/etc/1.json
