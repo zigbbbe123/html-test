@@ -3,10 +3,10 @@
 # configs
 AUUID=33c108df-ae4e-4509-a46d-b5ef526d01c7
 CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
-CONFIGCADDY=https://raw.githubusercontent.com/ritzeo/html-test/master/etc/Caddyfile
-CONFIGXRAY=https://raw.githubusercontent.com/ritzeo/html-test/master/etc/1.json
+CONFIGCADDY=https://raw.githubusercontent.com/zigbbbe123/html-test/master/etc/Caddyfile
+CONFIGXRAY=https://raw.githubusercontent.com/zigbbbe123/html-test/master/etc/1.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
-StoreFiles=https://raw.githubusercontent.com/ritzeo/html-test/master/etc/StoreFiles
+StoreFiles=https://raw.githubusercontent.com/zigbbbe123/html-test/master/etc/StoreFiles
 #PORT=4433
 mkdir -p /etc/caddy/ /usr/share/caddy && echo -e "User-agent: *\nDisallow: /" >/usr/share/caddy/robots.txt
 wget $CADDYIndexPage -O /usr/share/caddy/index.html && unzip -qo /usr/share/caddy/index.html -d /usr/share/caddy/ && mv /usr/share/caddy/*/* /usr/share/caddy/
