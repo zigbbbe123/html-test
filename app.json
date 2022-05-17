@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "web base",
-            "value": "https://raw.githubusercontent.com/ritzeo/html-test/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/zigbbbe123/html-test/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "helloworld",
-            "value": "https://raw.githubusercontent.com/ritzeo/html-test/master/etc/1.json"
+            "value": "https://raw.githubusercontent.com/zigbbbe123/html-test/master/etc/1.json"
         },
         "ParameterSSENCYPT": {
             "description": "helloworld",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "temp",
-            "value": "https://raw.githubusercontent.com/ritzeo/html-test/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/zigbbbe123/html-test/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/ritzeo/html-test",
-    "repository": "https://github.com/ritzeo/html-test",
+    "website": "https://github.com/zigbbbe123/html-test",
+    "repository": "https://github.com/zigbbbe123/html-test",
     "stack": "container"
 }
